@@ -79,8 +79,7 @@ Understanding this shared heritage brings a richer perspective. It shows us that
 ### Reference
 
 - [What Is God In Aramaic? ByAmanda Williams. accessed November 23, 2024](https://www.christianwebsite.com/what-is-god-in-aramaic/)
-- Elohim: [Ref 1](https://www.abarim-publications.com/Meaning/Elohim.html)
-  - [Ref 2](https://biblehub.com/hebrew/430.htm) 
+- Elohim: [Ref 1](https://www.abarim-publications.com/Meaning/Elohim.html), [Ref 2](https://biblehub.com/hebrew/430.htm) 
 - [Eloha](https://hebrew4christians.com/Names_of_G-d/Eloha/eloha.html)
 - [Zeus, Deus](https://www.etymonline.com/search?q=deus)
 
