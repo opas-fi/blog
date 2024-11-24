@@ -1,12 +1,14 @@
-title: Exploring Commonalities in Abrahamic Religions
+title: Your awesome title
 author:
-  name: Islamopas
-  email: @islamopas.com
+  name: GitHub User
+  email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  The goal is to make the Quran more accessible, clear up misconceptions, and create a bridge of understanding between Muslims and non-Muslims. 
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
 
 # Build settings
 
@@ -42,7 +44,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: auto
+  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
