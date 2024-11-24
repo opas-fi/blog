@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Prayer"
 categories: "Semitic Languages"
 author:
 - 
@@ -10,4 +10,4 @@ meta: ""
 
 # Prayer
 
-![](./prayer.mp4)
+<video src="./prayer.mp4" width="320" height="240" controls></video>
