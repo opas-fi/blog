@@ -5,7 +5,7 @@ categories: "Semitic Languages"
 ---
 
 
-# **Studying the Peshitta and Understanding the Message of Jesus Christ**
+<!-- # **Studying the Peshitta and Understanding the Message of Jesus Christ** -->
 
 1. **Preservation of Semitic Context**:
    - The Peshitta, written in Syriac (a dialect of Aramaic), offers a closer linguistic and cultural connection to the world in which Jesus lived. 

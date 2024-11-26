@@ -4,7 +4,7 @@ title: "Exploring Commonalities in Abrahamic Religions"
 categories: "Semitic Languages"
 ---
 
-# Exploring Commonalities in Abrahamic Religions
+<!-- # Exploring Commonalities in Abrahamic Religions -->
 
 The Abrahamic religions—Judaism, Christianity, and Islam—are often perceived as distinct entities. Yet a closer look reveals a shared foundation rooted in their approach to faith, language, and ritual. This article delves into these commonalities, reflecting parallel values, and shares linguistic expressions of faith.
 

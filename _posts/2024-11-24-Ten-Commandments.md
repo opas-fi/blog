@@ -5,7 +5,7 @@ categories: "Semitic Languages"
 ---
 
 
-# The Ten Commandments and Islamic values
+<!-- # The Ten Commandments and Islamic values -->
 
 The **Ten Commandments** and **Islamic values** share many parallels, as both are rooted in monotheistic traditions emphasizing moral conduct, devotion to God, and ethical responsibilities. Reflecting on their similarities and differences provides insight into the shared principles and unique emphases of Judaism, Christianity, and Islam.
 
