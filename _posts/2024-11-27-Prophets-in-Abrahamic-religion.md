@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "he prophets in Abrahamic Religion"
+title: "The prophets in Abrahamic Religion"
 categories: "Semitic Languages"
 ---
 
