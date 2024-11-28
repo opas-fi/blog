@@ -69,3 +69,7 @@ The **Ten Commandments** and **Islamic values** share many parallels, as both ar
 - The differences in their expression—such as Islam’s emphasis on comprehensive legal and moral systems—illustrate how each faith contextualizes these principles to address specific spiritual and societal needs.
 
 In essence, both frameworks aim to elevate humanity by fostering a deep connection to God and a commitment to justice and compassion. Their alignment underscores a common moral foundation, while their unique elements reflect the diversity.
+
+----
+## Links
+- [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments)
