@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "The main themes in the holy Quran, the old testament, the new testament"
 categories: "Semitic Languages"
 ---
 
